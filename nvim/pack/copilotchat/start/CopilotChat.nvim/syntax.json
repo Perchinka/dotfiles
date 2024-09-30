@@ -1,0 +1,11 @@
+[
+  {
+    "language": "Lua",
+    "markers": [
+      {
+        "type": "line",
+        "pattern": "--"
+      }
+    ]
+  }
+]
